@@ -1,5 +1,5 @@
 # Readme 
-This is the code of **FinMamba**. “Temporal Graph Learning-based Multi-Scale Mamba for Financial Time Series Forecasting”.
+This is the code of **FinMamba**. “FinMamba: Financial Time Series Forecasting with Graphaugmented Multi-Scale Mamba”.
 
 StockMamba consists of  Temporal Stock-Correlation Graph learning and Multi-Scale Mamba for stock movement prediction.
 
