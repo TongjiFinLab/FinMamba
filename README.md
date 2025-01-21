@@ -3,6 +3,8 @@ This is the code of **FinMamba**. “Temporal Graph Learning-based Multi-Scale M
 
 StockMamba consists of  Temporal Stock-Correlation Graph learning and Multi-Scale Mamba for stock movement prediction.
 
+![](./assets/FinMamba.png)
+
 ## Usage
 1. Install dependencies.
 - python == 3.8
